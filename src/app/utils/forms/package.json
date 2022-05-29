@@ -1,0 +1,6 @@
+{
+    "name": "forms",
+    "main": "index.ts",
+    "sideEffects": ["./abstract-control.ts", "./abstract-control.directive.ts","./index.ts"]
+  }
+  
